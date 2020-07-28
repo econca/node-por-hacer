@@ -5,7 +5,7 @@ Este es un ejercicio para generar una aplicación de tareas
 ### Instalación
 Para instalar los paquetes de Node:
 ```
-nmp install
+npm install
 ```
 ### Uso
 ```
